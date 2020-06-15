@@ -1,6 +1,4 @@
-# rocketchat_ynh - Test mirroring
-
-Rocketchat for yunohost
+# Rocketchat for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/rocketchat.svg)](https://dash.yunohost.org/appci/app/rocketchat)  
 [![Install Rocketchat with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=rocketchat)
