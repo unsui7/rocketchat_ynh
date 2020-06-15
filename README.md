@@ -1,4 +1,4 @@
-# rocketchat_ynh
+# rocketchat_ynh - Test mirroring
 
 Rocketchat for yunohost
 
